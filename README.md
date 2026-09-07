@@ -41,9 +41,9 @@ Ajuste os nomes abaixo se preferir manter os originais.
 </div>
 
 ### Projetos selecionados
-- [repo-1](#) — uma linha objetiva do que entrega.
-- [repo-2](#)
-- [repo-3](#)
+- [repo-1](#) -
+- [repo-2](#) -
+- [repo-3](#) -
 
 ### Métricas (opcional)
 <div align="center">
