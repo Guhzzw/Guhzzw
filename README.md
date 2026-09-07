@@ -29,11 +29,11 @@ Ajuste os nomes abaixo se preferir manter os originais.
 ### Foco
 - Arquitetura de serviços, API design e integrações.
 - Observabilidade (logs/metrics/traces), confiabilidade e custos.
-- Automação de entrega, testes e qualidade.
+- Automação, testes e qualidade.
 
 ### Agora
-- Construindo: [produto/time] — [problema que resolve].
-- Pesquisando: [tema técnico].
+- Construindo: ...
+- Pesquisando: ...
 
 ### Stack principal
 <div>
@@ -45,16 +45,6 @@ Ajuste os nomes abaixo se preferir manter os originais.
 - [repo-2](#) -
 - [repo-3](#) -
 
-### Métricas (opcional)
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark&hide_title=true&hide_border=true&langs_count=8" />
-</div>
-
-<details>
-<summary>media</summary>
-<p align="center">
-  <img src="./assets/kaneki.gif" width="360" alt="gif" />
 </p>
 </details>
 
